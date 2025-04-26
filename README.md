@@ -9,3 +9,7 @@ data encoding and finally, it has 32 features and 12316 instances of the acciden
 
 5. About the Data:
 The target feature is Accident_severity which is a multi-class variable. The task is to classify this variable based on the other 31 features step-by-step by going through each day's task. You metric for evaluation will be f1-score.
+
+
+![ChatGPT Image Apr 17, 2025, 02_44_06 PM](https://github.com/user-attachments/assets/88cbccfd-fa5f-460f-883a-f17ca546da79)
+
